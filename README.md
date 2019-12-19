@@ -1,4 +1,6 @@
-# Test Switch L1 Driver
+# Test Switch L1 Driver, for tests
+
+# For test purposes, it does not really communicate with a switch
 
 ## Overview
 The Test Switch L1 Driver provides CloudShell Resource Manager with the capability to communicate with switches that are part of the CloudShell inventory.
